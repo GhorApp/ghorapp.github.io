@@ -1,2 +1,2 @@
-# ghorent.github.io
+# ghorapp.github.io
 The Smartest Rental Platform of Bangladesh
